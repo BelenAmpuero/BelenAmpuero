@@ -33,5 +33,4 @@ Puedes clonar o descargar los proyectos para revisarlos, aprender o colaborar. T
 ---
 
 *Gracias por visitar mi GitHub. Estoy abierto a oportunidades de colaboración y empleo remoto en desarrollo web frontend.*
-## Hi there 👋
 
