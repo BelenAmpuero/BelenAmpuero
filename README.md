@@ -11,12 +11,16 @@ Me interesa crear interfaces funcionales y visualmente atractivas, combinando cr
 Busco oportunidades para desarrollarme en el área tecnológica, especialmente en roles junior, soporte o frontend.
 ## Habilidades técnicas
 
-- Node (en progreso)
+- Express,
+- MongooDB
+- Node,
+- Vue
+- Tailwind CSS
 - HTML5, CSS3 (Flexbox, Grid, animaciones)
 - JavaScript (DOM, eventos, ES6+)
-- React 
-- Diseño UI/UX con Figma y Adobe Photoshop
+- React
 - Control de versiones con Git y GitHub
+- Mongoose | Docker | REST APIs | Full Stack Developer (Finalizacion en Septiembre 2026)
 
 ## Proyectos destacados
 
